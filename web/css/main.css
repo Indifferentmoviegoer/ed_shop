@@ -1,0 +1,85 @@
+﻿
+#myid {
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  text-align: center;
+  margin-top: 60px;
+}
+.personal{
+    margin-top: 60px;
+}
+#myid p{
+  margin-top: 10px;
+}
+#myid h3{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: black;
+  text-align: center;
+  margin-top: 10px;
+}
+#myid a{
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  text-align: center;
+}
+#map{
+  width: 100%;
+  height: 400px;
+}
+.view-product{
+    text-align: left;
+}
+.left-sidebar h2{
+  text-align: center;
+}
+.category-products a{
+  color: #000;
+  text-align: center;
+  font-size:15px;
+  text-decoration: none;
+}
+.category-products a:hover{
+  color:coral;
+}
+.mydelproduct{
+    cursor: pointer;
+}
+.colorlink a{
+    color:black;
+}
+.category-products li {
+  list-style: none;
+  text-decoration: none;
+}
+.category-products .badge {
+  background:none;
+  border-radius: 10px;
+  color: #696763;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 1;
+  min-width: 10px;
+  padding: 3px 7px;
+  text-align: center;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
+
+.input-wrapper {
+    position: relative;
+}
+.input-wrapper input {
+    color: #ddd;
+    border: none;
+    padding: 0;
+    border-radius: 0;
+    outline: none;
+    font-size: 1.5rem;
+    line-height: 1.5em;
+    font-family: Roboto, Arial, sans-serif;
+    border-bottom: 3px solid #333333;
+    background-color: transparent;
+}
